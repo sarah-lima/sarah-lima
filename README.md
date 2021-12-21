@@ -3,7 +3,7 @@
 ## Formação
 Tenho formação técnica em mecatrônica.
 
-Faço Tecnólogo em Análise e Desenvolvimento de Sistemas e Licenciatura em Matemática.
+Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 
 ## Desenvolvedora Full Stack:
