@@ -1,11 +1,13 @@
 ### Olá, sou a Sarah
 
-Tenho 20 anos, com experiência em desenvolvimento web e mobile.
+Tenho 21 anos, com experiência em desenvolvimento web e mobile.
 
 ## Formação
 Tenho formação técnica em mecatrônica.
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas.
+
+Pós-graduação em Análise e Desenvolvimento de Programas.
 
 
 ## Desenvolvedora Full Stack:
